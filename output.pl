@@ -1,0 +1,6 @@
+
+Setprolog
+?- 
+
+Setprolog
+?- 
